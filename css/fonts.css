@@ -1,0 +1,45 @@
+/*********************** LA POLICE ********************/
+    /*J'appelle la police Nunito*/
+
+@font-face{
+    font-family:"nunito_regular";
+    src: url("../fonts/nunito/Nunito-Regular.ttf");
+}
+@font-face{
+    font-family:"nunito_light";
+    src: url("../fonts/nunito/Nunito-Light.ttf");
+}
+@font-face{
+    font-family:"nunito_bold";
+    src: url("../fonts/nunito/Nunito-Bold.ttf");
+}
+@font-face{
+    font-family:"nunito_extrabold";
+    src: url("../fonts/nunito/Nunito-ExtraBold.ttf");
+}
+@font-face{
+    font-family:"nunito_semibold";
+    src: url("../fonts/nunito/Nunito-SemiBold.ttf");
+}
+
+    /*J'appelle la police OpenSans*/
+@font-face{
+    font-family:"opensans_regular";
+    src: url("../fonts/OpenSans/OpenSans-Regular.ttf");
+}
+@font-face{
+    font-family:"opensans_light";
+    src: url("../fonts/OpenSans/OpenSans-Light.ttf");
+}
+@font-face{
+    font-family:"opensans_semibold";
+    src: url("../fonts/OpenSans/OpenSans-SemiBold.ttf");
+}
+@font-face{
+    font-family:"opensans_bold";
+    src: url("../fonts/OpenSans/OpenSans-Bold.ttf");
+}
+@font-face{
+    font-family:"opensans_extrabold";
+    src: url("../fonts/OpenSans/OpenSans-ExtraBold.ttf");
+}
